@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @YaroslavGridnev
 I actively participate in early tests of various projects, install nodes, am the genesis validator of IDEP. 
 
-I participate in the celestia devnet, an early supporter of masa, validator of Massa, kyve, Zeitgeist, ponthem, and cosmos ecosystem.
+I participate in the celestia devnet, an early supporter of masa, validator of Massa, kyve, Zeitgeist, ponthem, blundr, Penumbra, hummanode, Aptos, syu, and cosmos ecosystem.
 The ambassador of supraOracles, monbeam, GoldFINCH. 
 
 I have a large community in telegram - about 3000 members. 
